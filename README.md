@@ -27,10 +27,7 @@ A modern, responsive AI-powered chatbot application built with React frontend an
 
 - **Real-time Chat Interface**: Modern, responsive UI with smooth animations
 - **AI-Powered Responses**: Integrated with Hugging Face models via OpenAI API
-- **Message History**: Persistent chat history with timestamps
-- **Error Handling**: Robust error handling with user-friendly messages
 - **Loading States**: Visual feedback during AI response generation
-- **Mobile Responsive**: Optimized for desktop and mobile devices
 - **Clean Architecture**: Well-structured codebase with separation of concerns
 
 ## 🛠 Technology Stack

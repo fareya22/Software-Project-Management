@@ -19,7 +19,7 @@ A modern, responsive AI-powered chatbot application built with React frontend an
 - [Usage](#usage)
 - [Project Structure](#project-structure)
 - [API Documentation](#api-documentation)
-- [Future Enhancements](#future-enhancements)
+- [Screenshots](#screenshots)
 - [Contributing](#contributing)
 - [License](#license)
 
@@ -179,6 +179,8 @@ Sends a message to the AI and receives a response.
   "response": "Error: [error message]"
 }
 ```
+
+<img src="./Screenshort/image%20copy.png" width="300" alt="Screenshot 1"/> <img src="./Screenshort/image.png" width="300" alt="Screenshot 2"/>
 
 
 ## 🤝 Contributing

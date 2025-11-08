@@ -6,8 +6,8 @@ A modern, responsive AI-powered chatbot application built with React frontend an
 
 | Name | Roll |
 |------|----|
-| MD Mostafizur Rahaman | BSSE-1320 |
 | Mosamma Sultana Trina | BSSE-1313 |
+| Md. Mostafizur Rahaman | BSSE-1320 |
 | Fareya Azam | BSSE-1331 |
 
 ## 📋 Table of Contents

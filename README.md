@@ -179,7 +179,6 @@ Sends a message to the AI and receives a response.
   "response": "Error: [error message]"
 }
 ```
-### Screenshots
 
 
 ## 🤝 Contributing
@@ -206,3 +205,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 
 For any questions or support, please contact the group members.
+

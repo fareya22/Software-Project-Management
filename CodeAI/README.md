@@ -47,7 +47,7 @@ pip install -r requirements.txt
 
 ## Usage
 
-### Web UI (Streamlit)
+### Web UI (Streamlit) - Easily run in your PC
 
 1. Activate your virtual environment
    - PowerShell:

@@ -1,0 +1,9 @@
+mistralai>=1.0.0
+python-dotenv>=1.0.0
+nltk>=3.8.0
+tree-sitter>=0.20.0
+tree-sitter-python>=0.20.0
+tree-sitter-java>=0.20.0
+tree-sitter-cpp>=0.20.0
+streamlit>=1.36.0
+

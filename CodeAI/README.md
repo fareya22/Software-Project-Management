@@ -1,4 +1,4 @@
-# AI Code Generator and Evaluator
+# AI Code Generator and Evaluator (Assignment-2)
 
 A prototype AI agent system for generating code based on user queries and evaluating code correctness using CodeBLEU metric. This is designed as an industry-usable AI assistant for developers.
 
